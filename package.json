@@ -12,7 +12,7 @@
     "format": "prettier --write '**/*' --ignore-unknown"
   },
   "dependencies": {
-    "@docsearch/react": "^1.0.0-alpha.27"
+    "@docsearch/react": "^3.5.1"
   },
   "devDependencies": {
     "@astrojs/renderer-preact": "^0.2.2",
