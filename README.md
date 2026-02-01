@@ -9,6 +9,7 @@ https://layer0-docs-layer0-astro-example-default.layer0-limelight.link
 ## Try It Now
 
 [![Deploy with Layer0](https://docs.layer0.co/button.svg)](https://app.layer0.co/deploy?repo=https://github.com/layer0-docs/layer0-astro-example)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Flayer0crystalaiintergation.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Flayer0crystalaiintergation?ref=badge_shield)
 
 ## Getting Started
 
@@ -53,3 +54,7 @@ layer0 deploy
 ```
 
 See [deploying](https://docs.layer0.co/guides/deploying) for more information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Flayer0crystalaiintergation.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Flayer0crystalaiintergation?ref=badge_large)
